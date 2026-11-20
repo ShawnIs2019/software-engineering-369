@@ -1,0 +1,4 @@
+Flask>=3.0
+Flask-SQLAlchemy>=3.1
+# When you switch to PostgreSQL (see README notes), also install:
+# psycopg2-binary
